@@ -1,6 +1,7 @@
 # QOLE Patcher
 
-QOLE Patcher is an auto-updater for the **GNT4 Quality of Life Edition (QOLE)** mod.
+QOLE Patcher is an auto-updater for the **GNT4 Quality of Life Edition (QOLE)** mod. For more info on the contents of this mod,
+please see the [GNT4 QOLE Releases Repository](https://github.com/NicholasMoser/qole-releases).
 
 - [How to Use](#how-to-use)
   - [Windows](#windows)
